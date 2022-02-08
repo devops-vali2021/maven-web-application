@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<title>KotreshVali- Home Page</title>
+//<link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to MSS. Poll SCM Demo </h1>
-<h1 align="center"> Welcome to Kotresh's website. Hope you are doing great. Welcome back. </h1>
+<h1 align="center">Welcome to KV. DevOps Learning </h1>
+<h1 align="center"> Welcome to KotreshVali's website. Hope you are doing great. Welcome back. </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
