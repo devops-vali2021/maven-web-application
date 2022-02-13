@@ -17,11 +17,11 @@
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Software Solutions, 
-		Martha Halli,
-		Bangalore,
-		+91-9980923226,
-		devopstrainingbr@gmail.com
+		Kotresh Vali, 
+		293 Turnpike Road, Apt 106,
+		Westborough,
+		+1-508-498-6315,
+		vali.kotresh@gmail.com
 		<br>
 		<a href="mailto:vali.kotresh@gmail.com">Mail to Mithun Technologies</a>
 	</span>
@@ -31,7 +31,7 @@
 <hr>
 <hr>
 <p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2021 by <a href="http://kotreshvali.com/">Mithun Technologies</a> </small></p>
+<p align=center><small>Copyrights 2021 by <a href="http://kotreshvali.com/">Kotresh Vali</a> </small></p>
 
 </body>
 </html>
