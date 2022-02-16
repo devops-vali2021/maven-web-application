@@ -1,7 +1,7 @@
 node('nodes'){
     properties([buildDiscarder(logRotator(artifactDaysToKeepStr: '', artifactNumToKeepStr: '5', daysToKeepStr: '', numToKeepStr: '5')), [$class: 'JobLocalConfiguration', changeReasonComment: ''], 
                 
-    pipelineTriggers([pollSCM('* * * * *')])])
+//    pipelineTriggers([pollSCM('* * * * *')])])
 
     def mavenHome = tool name: "maven3.8.3"
 //Get code from Github repo
